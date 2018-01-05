@@ -29,7 +29,7 @@ export class IvanhoinackiApp implements OnInit {
     ngOnInit() {
         $('.description').typed({
             strings: [
-                'web deev..', 'Frontend Engineer ;)'
+                '重庆壹点科技（集团）有限公司'
             ],
             backDelay: 300,
             typeSpeed: 30
